@@ -1,0 +1,10 @@
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\bin\Debug\Project 2.0 (X's and O's).exe.config
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\bin\Debug\Project 2.0 (X's and O's).exe
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\bin\Debug\Project 2.0 (X's and O's).pdb
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\obj\Debug\Project 2.0 (X's and O's).csprojResolveAssemblyReference.cache
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\obj\Debug\Project_2._0__X_s_and_O_s_.Form1.resources
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\obj\Debug\Project_2._0__X_s_and_O_s_.Properties.Resources.resources
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\obj\Debug\Project 2.0 (X's and O's).csproj.GenerateResource.Cache
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\obj\Debug\Project 2.0 (X's and O's).csproj.CoreCompileInputs.cache
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\obj\Debug\Project 2.0 (X's and O's).exe
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 2.0 (X's and O's)\Project 2.0 (X's and O's)\obj\Debug\Project 2.0 (X's and O's).pdb
